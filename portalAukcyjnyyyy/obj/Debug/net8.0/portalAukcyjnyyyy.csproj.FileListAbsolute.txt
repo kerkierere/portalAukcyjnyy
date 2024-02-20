@@ -1,0 +1,14 @@
+C:\Users\Janek\source\repos\portalAukcyjnyyyy\portalAukcyjnyyyy\bin\Debug\net8.0\portalAukcyjnyyyy.exe
+C:\Users\Janek\source\repos\portalAukcyjnyyyy\portalAukcyjnyyyy\bin\Debug\net8.0\portalAukcyjnyyyy.deps.json
+C:\Users\Janek\source\repos\portalAukcyjnyyyy\portalAukcyjnyyyy\bin\Debug\net8.0\portalAukcyjnyyyy.runtimeconfig.json
+C:\Users\Janek\source\repos\portalAukcyjnyyyy\portalAukcyjnyyyy\bin\Debug\net8.0\portalAukcyjnyyyy.dll
+C:\Users\Janek\source\repos\portalAukcyjnyyyy\portalAukcyjnyyyy\bin\Debug\net8.0\portalAukcyjnyyyy.pdb
+C:\Users\Janek\source\repos\portalAukcyjnyyyy\portalAukcyjnyyyy\obj\Debug\net8.0\portalAukcyjnyyyy.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Janek\source\repos\portalAukcyjnyyyy\portalAukcyjnyyyy\obj\Debug\net8.0\portalAukcyjnyyyy.AssemblyInfoInputs.cache
+C:\Users\Janek\source\repos\portalAukcyjnyyyy\portalAukcyjnyyyy\obj\Debug\net8.0\portalAukcyjnyyyy.AssemblyInfo.cs
+C:\Users\Janek\source\repos\portalAukcyjnyyyy\portalAukcyjnyyyy\obj\Debug\net8.0\portalAukcyjnyyyy.csproj.CoreCompileInputs.cache
+C:\Users\Janek\source\repos\portalAukcyjnyyyy\portalAukcyjnyyyy\obj\Debug\net8.0\portalAukcyjnyyyy.dll
+C:\Users\Janek\source\repos\portalAukcyjnyyyy\portalAukcyjnyyyy\obj\Debug\net8.0\refint\portalAukcyjnyyyy.dll
+C:\Users\Janek\source\repos\portalAukcyjnyyyy\portalAukcyjnyyyy\obj\Debug\net8.0\portalAukcyjnyyyy.pdb
+C:\Users\Janek\source\repos\portalAukcyjnyyyy\portalAukcyjnyyyy\obj\Debug\net8.0\portalAukcyjnyyyy.genruntimeconfig.cache
+C:\Users\Janek\source\repos\portalAukcyjnyyyy\portalAukcyjnyyyy\obj\Debug\net8.0\ref\portalAukcyjnyyyy.dll
